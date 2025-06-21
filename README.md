@@ -1,6 +1,10 @@
 # currency_converter
 
-A new Flutter project.
+This is my First Flutter Project. A simple Currency Converter App that contains of a single screen a button and a text field. it takes input from user in dollar and convert it into PKR.
+Desktop Look:
+![Screenshot](assets/images/img1.png)
+Android Look:
+![Screenshot](assets/images/img2.png)
 
 ## Getting Started
 
